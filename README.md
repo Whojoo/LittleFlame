@@ -4,7 +4,8 @@ First 3D game I worked on with some other students.
 # The game
 This little game is about a little flame in a big, burnable world.  
 The little flame is from outer space, created from a meteor. This meteor split up in our atmosphere.  
-The little flame misses his friends from the other meteors so he decides to find a path to his friends.
+The little flame misses his friends from the other meteors so he decides to find a path to his friends.  
+[Video on Youtube](https://www.youtube.com/watch?v=pYs0TGk-Diw)
 
 # The project
 Our university gave us a project for which we had to create our own game.
