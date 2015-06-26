@@ -14,6 +14,11 @@ game would be a great experience.
 
 In the end we had a great time working on this game and we learned a lot.
 
+# Issues
+This was a new experience for us, working with 3D. But at the same time we wanted to showcase this on a Xbox 360.  
+First tests were all done on a pc since it was just faster than constantly sending everything to a Xbox 360. At one point we decided to have 1 person test the game on a Xbox 360 as well. One thing we did not pay attention to is the available RAM, or memory management of any kind.  
+So we had to find all memory leaks and we had to think about memory usage. I think that for 3D games this was our biggest lesson, make sure you do not carelessly use memory.
+
 # Authors
 [Yannick Lange](http://www.yannicklange.com/) - Main programmer and it was his idea  
 Arnout Verburg - Programmer, Designer, Artist  
